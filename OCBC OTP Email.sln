@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCBC OTP Email", "OCBC OTP Email\OCBC OTP Email.csproj", "{8535D3E5-BB19-4F8D-890C-09340007E7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8535D3E5-BB19-4F8D-890C-09340007E7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8535D3E5-BB19-4F8D-890C-09340007E7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8535D3E5-BB19-4F8D-890C-09340007E7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8535D3E5-BB19-4F8D-890C-09340007E7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A16E69-CBE8-4F8D-8489-CAA0C52DE5D1}
+	EndGlobalSection
+EndGlobal
